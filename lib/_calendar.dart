@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'upcoming_tournaments_widget.dart';
 import 'tournament.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'volleymatic_Model.dart';
